@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import React from "react";
+
 import "./Weight.scss"; // Import your SCSS file
 
 import weightliftingImage from "./1.jpg";

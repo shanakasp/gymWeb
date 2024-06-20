@@ -1,7 +1,7 @@
 import { CardContent, Typography } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 import { motion } from "framer-motion";
-import React, { useState } from "react";
+import { useState } from "react";
 import "./Service.scss"; // Import your separate SCSS file
 
 const useStyles = makeStyles({
